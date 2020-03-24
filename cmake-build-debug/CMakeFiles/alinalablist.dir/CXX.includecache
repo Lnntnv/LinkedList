@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Projects/alinalablist/LinkedList.cpp
+iostream
+-
+LinkedList.h
+/home/user/Projects/alinalablist/LinkedList.h
+List.h
+/home/user/Projects/alinalablist/List.h
+Vectorable.h
+/home/user/Projects/alinalablist/Vectorable.h
+
+/home/user/Projects/alinalablist/LinkedList.h
+
+/home/user/Projects/alinalablist/List.h
+cstdio
+-
+
+/home/user/Projects/alinalablist/Vectorable.h
+vector
+-
+
+/home/user/Projects/alinalablist/main.cpp
+iostream
+-
+LinkedList.cpp
+/home/user/Projects/alinalablist/LinkedList.cpp
+

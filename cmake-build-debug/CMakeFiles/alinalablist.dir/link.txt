@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/alinalablist.dir/main.cpp.o CMakeFiles/alinalablist.dir/LinkedList.cpp.o  -o alinalablist 
